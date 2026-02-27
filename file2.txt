@@ -1,1 +1,2 @@
 Contenu file2
+Ajout dans file2
